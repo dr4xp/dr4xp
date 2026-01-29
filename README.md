@@ -5,7 +5,7 @@
 
 ## Connect's
 - [LinkedIn](https://www.linkedin.com/in/dr4xp/)
-- [TryHackMe](https://tryhackme.com/p/DR4x)
+- [TryHackMe](https://tryhackme.com/p/DR4X)
 - [YouTube](https://youtube.com/@fr4nc0x1)
 
 <div align="center"><h1><i>GOOD LUCK!</h1></i>
